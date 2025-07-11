@@ -1,6 +1,6 @@
 # Fork of the original Google Image Scraper
 
-https://github.com/ohyicong/Google-Image-Scraper/blob/master/GoogleImageScraper.py
+https://github.com/ohyicong/Google-Image-Scraper/blob/master/README.md
 
 
 ## Main changes
